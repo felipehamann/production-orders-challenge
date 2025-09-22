@@ -153,4 +153,3 @@ Obtiene todas las órdenes de producción.
 - ✅ Almacenamiento en memoria
 - ✅ Validaciones de entrada
 - ✅ Filtro opcional por status
-- ✅ Tiempo de desarrollo: ~30 minutos
